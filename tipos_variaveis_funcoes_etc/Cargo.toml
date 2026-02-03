@@ -1,0 +1,6 @@
+[package]
+name = "tipos_variaveis_funcoes_etc"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

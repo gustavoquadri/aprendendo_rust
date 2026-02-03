@@ -1,0 +1,1 @@
+C:\Users\gtv\Desktop\gustavo\projetos\aprendendo_rust\tipos_variaveis_funcoes_etc\target\debug\tipos_variaveis_funcoes_etc.exe: C:\Users\gtv\Desktop\gustavo\projetos\aprendendo_rust\tipos_variaveis_funcoes_etc\src\main.rs

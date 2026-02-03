@@ -1,0 +1,1 @@
+C:\Users\gtv\Desktop\gustavo\projetos\aprendendo_rust\teste_projeto_oficina\target\debug\teste_projeto_oficina.exe: C:\Users\gtv\Desktop\gustavo\projetos\aprendendo_rust\teste_projeto_oficina\src\main.rs

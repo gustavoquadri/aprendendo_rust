@@ -1,0 +1,10 @@
+C:\Users\gtv\Desktop\gustavo\projetos\aprendendo_rust\teste_projeto_oficina\target\debug\deps\structopt_derive-ef7f9744415c67c4.d: C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\lib.rs C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\attrs.rs C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\doc_comments.rs C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\parse.rs C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\spanned.rs C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\ty.rs
+
+C:\Users\gtv\Desktop\gustavo\projetos\aprendendo_rust\teste_projeto_oficina\target\debug\deps\structopt_derive-ef7f9744415c67c4.dll: C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\lib.rs C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\attrs.rs C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\doc_comments.rs C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\parse.rs C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\spanned.rs C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\ty.rs
+
+C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\lib.rs:
+C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\attrs.rs:
+C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\doc_comments.rs:
+C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\parse.rs:
+C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\spanned.rs:
+C:\Users\gtv\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\ty.rs:
